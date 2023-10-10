@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "X54JLKBKSP.com.example.flutterSampleAppAuthFunc",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
