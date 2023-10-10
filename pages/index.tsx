@@ -42,7 +42,7 @@ export default function Home({ data }: { data: string }) {
         <h1 className={styles.title}>
           Welcome to{" "}
           <a href="https://github.com/descope-sample-apps/next-js-sample-app">
-            Descope Next.js Sample App
+            Descope&rsquo;s Next.js Sample App
           </a>
         </h1>
         {!isAuthenticated && (
