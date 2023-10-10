@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.example.flutter_sample_app_auth_func",
+      "package_name": "com.example.flutter_sample_app_auth_func",
+      "sha256_cert_fingerprints":
+      ["02:48:E4:F4:82:38:C9:B8:51:E8:3C:AA:47:62:E6:5C:CE:D8:2C:39:82:95:17:4B:B8:5A:F8:09:77:5D:74:0F"]
+    }
+  }]
